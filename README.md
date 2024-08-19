@@ -1,0 +1,1 @@
+This study has no financial purpose and was developed by Raqui. This is an interactive dashboard to allow management to have a better tactical view regarding all data presented in the original dataframe. 
