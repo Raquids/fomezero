@@ -84,9 +84,6 @@ def plot_bar_view_streamlit(df_query, filter_column, filtered_column, title, fig
 
     # Add a dashed green grid
     ax.grid(axis='y', linestyle='--', linewidth=0.8, color='green', alpha=0.7)
-
-    # Set y-axis to logarithmic scale
-    ax.set_yscale('log')
     
     # Add value labels above each bar
     for bar in bars:
