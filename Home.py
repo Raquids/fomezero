@@ -2,8 +2,6 @@ import folium
 
 import streamlit as st
 from PIL import Image
-import matplotlib.pyplot as plt
-import pandas as pd
 
 from io import StringIO, BytesIO
 from folium.plugins import MarkerCluster

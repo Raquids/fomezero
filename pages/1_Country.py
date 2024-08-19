@@ -1,5 +1,4 @@
 import streamlit as st
-import matplotlib.pyplot as plt
 from PIL import Image
 
 from functions import read_df

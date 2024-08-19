@@ -1,12 +1,13 @@
 import streamlit as st
 import matplotlib.pyplot as plt
+
 from PIL import Image
-import pandas as pd
+from io import BytesIO
+
 from functions import read_df
 from functions import general_info as info
 from functions import plot_bar_view_streamlit2
 
-from io import BytesIO
 
 
 
